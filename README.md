@@ -1,2 +1,2 @@
 # coursera-html-course
-html-coursera
+html-coursera by Yaakov Chaikin
